@@ -100,16 +100,24 @@ Add notification system for workplaces or public spaces.
 
 # 📝 Author
 
-~Group
+~Group B
 
 Anushka Shende 
+
 Krishika Agarwal 
+
 Nandeshwar Parate 
+
 Satyam Kumar 
+
 Pushpak Telrandhe 
+
 Prerna Bhande 
-Neel Nitin Rathi 
+
+Neel Rathi 
+
 Vedika Warade 
+
 Shweta Pandhare 
 
 
@@ -118,6 +126,7 @@ Shweta Pandhare
 Open-source contributions for TensorFlow, Keras, and OpenCV libraries
 
 Dataset contributors for mask and no-mask images
+
 
 
 
