@@ -100,17 +100,25 @@ Add notification system for workplaces or public spaces.
 
 # 📝 Author
 
-Anushka Shende
+~Group
 
-Email: sushmashende607@gmail.com
+Anushka Shende 
+Krishika Agarwal 
+Nandeshwar Parate 
+Satyam Kumar 
+Pushpak Telrandhe 
+Prerna Bhande 
+Neel Nitin Rathi 
+Vedika Warade 
+Shweta Pandhare 
 
-Internship Project: Naviotech Solution
 
 # 🙏 Acknowledgments
 
 Open-source contributions for TensorFlow, Keras, and OpenCV libraries
 
 Dataset contributors for mask and no-mask images
+
 
 
 
